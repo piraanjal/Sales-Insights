@@ -23,7 +23,7 @@ The Revenue Analysis Dashboard provides a comprehensive view of revenue trends o
 - *Revenue by Year*: Highlights the annual revenue trends, aiding in identifying high-performing years.
 - *Top 5 Customers and Products*: Lists the most profitable customers and best-selling products.
 
-![Revenue Analysis Dashboard](Screenshot%202024-12-21%20143751.png)
+![Revenue Analysis Dashboard](images/ss1.png)
 
 ### 2. Profit Analysis Dashboard
 The Profit Analysis Dashboard focuses on profit margins and trends. Key features include:
