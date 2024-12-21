@@ -1,10 +1,10 @@
 
-# Sales Insights Dashboard 
+# Sales Insights Dashboard 📊
 
 ## Overview
 This project focuses on analyzing sales data using Tableau. The primary goal is to derive actionable insights from the data to understand revenue and profit trends across different years, months, and markets.
 
-## Data Integration
+## Data Integration 🗂
 The analysis is based on five CSV files:
 - *Transactions*
 - *Date*
@@ -14,7 +14,7 @@ The analysis is based on five CSV files:
 
 These files were imported into a PostgreSQL database for seamless integration with Tableau, enabling efficient data querying and visualization.
 
-## Dashboards
+## Dashboards 📈
 
 ### 1. Revenue Analysis Dashboard
 The Revenue Analysis Dashboard provides a comprehensive view of revenue trends over the years and months. Key features include:
@@ -23,7 +23,7 @@ The Revenue Analysis Dashboard provides a comprehensive view of revenue trends o
 - *Revenue by Year*: Highlights the annual revenue trends, aiding in identifying high-performing years.
 - *Top 5 Customers and Products*: Lists the most profitable customers and best-selling products.
 
-![Revenue Analysis Dashboard](images/ss1.png)
+![Revenue Analysis Dashboard](/Images/ss1.jpg)
 
 ### 2. Profit Analysis Dashboard
 The Profit Analysis Dashboard focuses on profit margins and trends. Key features include:
@@ -33,17 +33,11 @@ The Profit Analysis Dashboard focuses on profit margins and trends. Key features
 - *Customer Table*: Lists detailed information about customers, including profit margins and normalized amounts.
 - *Revenue Distribution by Market*: Shows the percentage split between E-Commerce and Brick & Mortar sales.
 
-![Profit Analysis Dashboard](Screenshot%202024-12-21%20143715.png)
+![Profit Analysis Dashboard](/Images/ss2.jpg)
 
-## Technology Stack
+## Technology Stack 🛠
 - *PostgreSQL*: Used to store and manage the integrated data from the CSV files.
 - *Tableau*: For creating interactive dashboards and visualizations.
 
 
-## Screenshots
-### Revenue Analysis Dashboard
-![Revenue Analysis Screenshot](Screenshot%202024-12-21%20143751.png)
-
-### Profit Analysis Dashboard
-![Profit Analysis Screenshot](Screenshot%202024-12-21%20143715.png)
 
